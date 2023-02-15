@@ -1,2 +1,2 @@
-# aws-tf-module
+# AWS Terraform Module
 Common modules terraform for AWS
